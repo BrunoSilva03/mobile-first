@@ -1,20 +1,24 @@
 @charset "UTF-8";
 
+/*Celular*/
 @media screen and (max-width: 600px) {
 
 }
 
 
+/*Tablet*/
 @media screen and (min-width: 769px) and (max-width: 992px) {
 
 }
 
 
+/*Desktop*/
 @media screen and (min-width: 992px) and (max-width: 1200px) {
 
 }
 
 
+/*Grandes Telas*/
 @media screen and (min-width: 1200px) {
     
 }
